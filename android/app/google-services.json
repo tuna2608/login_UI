@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1076750133965",
+    "project_id": "login-fb-gg-c200c",
+    "storage_bucket": "login-fb-gg-c200c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076750133965:android:3b13509fcbbeda22949784",
+        "android_client_info": {
+          "package_name": "com.example.ngan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076750133965-jtpsqjb9fptt5psv8ub79o1n9bnq48gc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm-cETwW2foq7qLxsNuW9kpzfkWR5nZzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076750133965-jtpsqjb9fptt5psv8ub79o1n9bnq48gc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
